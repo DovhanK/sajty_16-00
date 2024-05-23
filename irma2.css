@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(0,0,255), rgb(4, 187, 4), rgb(0,255,255) );
+}
+
+header{
+    text-align: center;
+    color: rgb(5, 5, 131);
+    padding: 9px;
+}
+nav{margin: 10px 0px;
+text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    padding-right: 60px;
+    color: black;
+    border: 3px solid rgb(0, 0, 8);
+    border-radius: 8px;
+    
+}
