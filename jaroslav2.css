@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgreen;
+}
+
+header{
+    text-align: center;
+    color:rgb(255, 0, 0);
+    
+}
+footer{
+    background-image: linear-gradient(blue, green);
+    text-align: right;
+    color: gold;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+h3{
+    text-align: left;
+}
+ul{
+    color:rgb(211, 0, 0);
+}
+main{
+    color: red;
+    font-size: 20px;
+}
